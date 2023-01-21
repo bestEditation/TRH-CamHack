@@ -29,3 +29,10 @@ Welcome To My Script TRH-CamHack, If you use this bot, then you can clicked Your
 1. Run 
 1. Afterwards
 1. Your Bot is now online.
+
+## Channel And Groups
+[![https://telegram.me/TrhRedhacker_G1](https://img.shields.io/static/v1?label=Telegram&style=for-the-badge&message=Group&logo=telegram&color=blue)](https://telegram.me/TrhRedhacker_G1)
+
+[![https://telegram.me/TrhRedhacker](https://img.shields.io/static/v1?label=Telegram&style=for-the-badge&message=channel&logo=telegram&color=skyblue)](https://telegram.me/TrhRedhacker)
+
+[![https://www.youtube.com/@besteditation](https://img.shields.io/static/v1?label=Youtube&style=for-the-badge&message=channel&logo=youtube&color=red)](https://www.youtube.com/@besteditation)
